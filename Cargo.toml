@@ -1,0 +1,10 @@
+[package]
+name = "holonix-lair"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "lair-keystore"
+path = "src/main.rs"
+
+[dependencies]
